@@ -1,0 +1,12 @@
+PYTHON ES UN LENGUAJE
+- DE PROPÓSITO GENERAL
+- ALTO NIVEL
+- FÁCIL DE APRENDER
+- DE TIPADO DINÁMICO (osea que no es necesario indicar el tipo de dato como int o string)
+
+Asimismo es un lenguaje con INTÉRPRETE, el cual a diferencia del elnguaje COMPILADO, lo que hace el intérprete es que va line por linea ejecutando el código, mientras que el compilador espera a tener toda la información de todo el archivo y así lo ejecuta. Por ejemplo si existe algún problema, el compilador tiene que ejecutar de nuevo todo el código para verificar su correción, mientras que con el intérprete esto no sería necesario.
+
+La desventaja de los lenguajes interpretados es que tienden a ser más lentos en compración de los compilados, esto es debido a que tiene que hacer un proceso más durante la ejecución, y es ir traduciendo todo por cada linea. Algunos de los ejemplos que tienen el elnguaje interpretado es PYTHONS, JS, PHP
+
+Una de las entajas de PYTHON es que podemos trabajarlo junto con otros lenguajes de programación, asimismo es MULTIPARADIGMA, es decir que también podemos trabajarlo con diferentes SISTEMAS OPERATIVOS, pero EL MISMO PROGRAMA; es decir que no es necesario desarrollar un programa para cada sistema operativo debido a que se ejecuta en todos (UN SOLO CÓDIGO, MÚLTIPLES PLATAFORMAS).
+
