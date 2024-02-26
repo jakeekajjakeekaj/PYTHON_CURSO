@@ -23,5 +23,7 @@
 # print("Mario" in bienvenida)    #True
 # print("Mario" not in bienvenida)    #False
 
-# Esto es porque el primer verifica que Mario se encuentra en bienvenida? la respuesta es si, y en el segundo caso verifica que Mario no se encuentra en bienvenida, y la respuesta es false ya que Mario si se encuentra en bienvenida
+# Esto es porque el primer verifica que Mario se encuentra en bienvenida? la respuesta es true, y en el segundo caso verifica que Mario no se encuentra en bienvenida, y la respuesta es false ya que Mario si se encuentra en bienvenida
 
+# El camelCase, ya sabemos cómo funciona, se usa mayúscula al conectar con otra palabra
+# El snake_case, de igual manera ya sabemos cómo funciona, siempre está en minúsculas y se separa con guines bajos, SIN EMBARGO DENTRO DE PYTHON ES MÁS REOCMEDABLE USAR SNAKE CASE
